@@ -12,7 +12,7 @@ Authoring environment: Power BI Desktop on Windows 11 in Parallels Desktop on ma
 | Two interactive pages | PASS | `Executive Commercial Health` and `Funnel & Process Diagnostics`, each with a button slicer (`Company Size` / `Region`) and cross-filtering visuals. |
 | Overall reconciliation against the SQL baseline | PASS | See table below. |
 | One segment-level reconciliation | PASS | See table below. |
-| PBIX saves, closes and reopens | PASS with one check outstanding | Verified in the application at 08:33 on 2026-09-21, before the presentation-layer changes. After those changes the saved file was verified structurally: the package contains a data model and two report pages, `Executive Commercial Health` (10 visuals) and `Funnel & Process Diagnostics` (18 visuals). An in-application reopen of this final version has not yet been repeated. |
+| PBIX saves, closes and reopens | PASS | Verified twice on 2026-09-21: at 08:33 before the presentation-layer changes, and again at 23:52 on the final version saved at 23:00. On reopen both pages rendered with all KPIs, charts, slicers, the data note and the `Calendar` table present, and no filter selections carried over. The saved package was also checked structurally: data model plus two pages, `Executive Commercial Health` (10 visuals) and `Funnel & Process Diagnostics` (18 visuals). |
 | Cosmetic work capped at 2h | CLOSED | Layout, colour, typography and labelling work stopped; no further beautification is in scope. |
 
 ## Overall reconciliation — dashboard vs `data/processed/sql_kpi_baseline.csv`
