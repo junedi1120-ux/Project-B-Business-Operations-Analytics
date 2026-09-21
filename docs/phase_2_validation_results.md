@@ -12,7 +12,7 @@ Authoring environment: Power BI Desktop on Windows 11 in Parallels Desktop on ma
 | Two interactive pages | PASS | `Executive Commercial Health` and `Funnel & Process Diagnostics`, each with a button slicer (`Company Size` / `Region`) and cross-filtering visuals. |
 | Overall reconciliation against the SQL baseline | PASS | See table below. |
 | One segment-level reconciliation | PASS | See table below. |
-| PBIX saves, closes and reopens | PASS | Reopened 2026-09-21; both pages, KPIs, visuals, slicers and DAX loaded intact. First verified at 08:33 before the presentation-layer changes, re-verified after them. |
+| PBIX saves, closes and reopens | PASS with one check outstanding | Verified in the application at 08:33 on 2026-09-21, before the presentation-layer changes. After those changes the saved file was verified structurally: the package contains a data model and two report pages, `Executive Commercial Health` (10 visuals) and `Funnel & Process Diagnostics` (18 visuals). An in-application reopen of this final version has not yet been repeated. |
 | Cosmetic work capped at 2h | CLOSED | Layout, colour, typography and labelling work stopped; no further beautification is in scope. |
 
 ## Overall reconciliation — dashboard vs `data/processed/sql_kpi_baseline.csv`
@@ -41,6 +41,10 @@ Authoring environment: Power BI Desktop on Windows 11 in Parallels Desktop on ma
 | SMB | 80.2% | 80.2% | yes |
 
 The Enterprise 100% figure is a structural consequence of the simulated onboarding-duration rules. The page carries a data note stating it must not be read as superior team performance.
+
+## Open item
+
+A stale duplicate `Project-B-Business-Operations-Analytics.pbix` exists outside the repository at `C:\Mac\Home\Documents\`. It is an early empty file with no `Calendar` table and no report pages, and it appears in the Power BI recent-files list alongside the real one. It should be renamed or removed to prevent editing or reviewing the wrong file.
 
 ## Corrections made during Phase 2
 
