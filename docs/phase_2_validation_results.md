@@ -42,9 +42,9 @@ Authoring environment: Power BI Desktop on Windows 11 in Parallels Desktop on ma
 
 The Enterprise 100% figure is a structural consequence of the simulated onboarding-duration rules. The page carries a data note stating it must not be read as superior team performance.
 
-## Open item
+## Resolved item
 
-A stale duplicate `Project-B-Business-Operations-Analytics.pbix` exists outside the repository at `C:\Mac\Home\Documents\`. It is an early empty file with no `Calendar` table and no report pages, and it appears in the Power BI recent-files list alongside the real one. It should be renamed or removed to prevent editing or reviewing the wrong file.
+A stale duplicate `Project-B-Business-Operations-Analytics.pbix` existed outside the repository at `~/Documents/` (`C:\Mac\Home\Documents\` from inside the VM). It was an early file containing a data model but a single empty report page and no `Calendar` table, and it appeared in the Power BI recent-files list beside the real one, where it was opened by mistake once. It was deleted on 2026-09-21 after confirming its contents. The repository copy under `powerbi/` is the only working file.
 
 ## Corrections made during Phase 2
 
