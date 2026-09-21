@@ -1,0 +1,26 @@
+account_id,account_name,region,company_size,industry,employee_band,account_created_date
+1,"Simulated Account 001",EMEA,SMB,Technology,50-249,2023-03-02
+2,"Simulated Account 002",NA,Mid-market,Manufacturing,250-999,2023-04-12
+3,"Simulated Account 003",APAC,Enterprise,Healthcare,1000+,2023-05-23
+4,"Simulated Account 004",EMEA,SMB,"Financial Services",50-249,2023-07-03
+5,"Simulated Account 005",NA,Mid-market,"Professional Services",250-999,2023-08-13
+6,"Simulated Account 006",APAC,Enterprise,Technology,1000+,2023-09-23
+7,"Simulated Account 007",NA,SMB,Manufacturing,50-249,2023-11-03
+8,"Simulated Account 008",LATAM,SMB,Healthcare,50-249,2023-12-14
+9,"Simulated Account 009",EMEA,Mid-market,"Financial Services",250-999,2024-01-24
+10,"Simulated Account 010",NA,Enterprise,"Professional Services",1000+,2024-03-05
+11,"Simulated Account 011",APAC,SMB,Technology,50-249,2024-04-15
+12,"Simulated Account 012",EMEA,Mid-market,Manufacturing,250-999,2024-05-26
+13,"Simulated Account 013",NA,Enterprise,Healthcare,1000+,2024-07-06
+14,"Simulated Account 014",APAC,SMB,"Financial Services",50-249,2024-08-16
+15,"Simulated Account 015",NA,Mid-market,"Professional Services",250-999,2024-09-26
+16,"Simulated Account 016",LATAM,Mid-market,Technology,250-999,2024-11-06
+17,"Simulated Account 017",EMEA,SMB,Manufacturing,50-249,2024-12-17
+18,"Simulated Account 018",NA,SMB,Healthcare,50-249,2023-01-28
+19,"Simulated Account 019",APAC,Mid-market,"Financial Services",250-999,2023-03-10
+20,"Simulated Account 020",EMEA,Enterprise,"Professional Services",1000+,2023-04-20
+21,"Simulated Account 021",NA,SMB,Technology,50-249,2023-05-31
+22,"Simulated Account 022",APAC,Mid-market,Manufacturing,250-999,2023-07-11
+23,"Simulated Account 023",EMEA,Mid-market,Healthcare,250-999,2023-08-21
+24,"Simulated Account 024",NA,SMB,"Financial Services",50-249,2023-10-01
+25,"Simulated Account 025",EMEA,SMB,"Professional Services",50-249,2023-11-11

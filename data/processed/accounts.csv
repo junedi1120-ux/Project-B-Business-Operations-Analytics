@@ -1,0 +1,241 @@
+account_id,account_name,region,company_size,industry,employee_band,account_created_date
+1,"Simulated Account 001",EMEA,SMB,Technology,50-249,2023-03-02
+2,"Simulated Account 002",NA,Mid-market,Manufacturing,250-999,2023-04-12
+3,"Simulated Account 003",APAC,Enterprise,Healthcare,1000+,2023-05-23
+4,"Simulated Account 004",EMEA,SMB,"Financial Services",50-249,2023-07-03
+5,"Simulated Account 005",NA,Mid-market,"Professional Services",250-999,2023-08-13
+6,"Simulated Account 006",APAC,Enterprise,Technology,1000+,2023-09-23
+7,"Simulated Account 007",NA,SMB,Manufacturing,50-249,2023-11-03
+8,"Simulated Account 008",LATAM,SMB,Healthcare,50-249,2023-12-14
+9,"Simulated Account 009",EMEA,Mid-market,"Financial Services",250-999,2024-01-24
+10,"Simulated Account 010",NA,Enterprise,"Professional Services",1000+,2024-03-05
+11,"Simulated Account 011",APAC,SMB,Technology,50-249,2024-04-15
+12,"Simulated Account 012",EMEA,Mid-market,Manufacturing,250-999,2024-05-26
+13,"Simulated Account 013",NA,Enterprise,Healthcare,1000+,2024-07-06
+14,"Simulated Account 014",APAC,SMB,"Financial Services",50-249,2024-08-16
+15,"Simulated Account 015",NA,Mid-market,"Professional Services",250-999,2024-09-26
+16,"Simulated Account 016",LATAM,Mid-market,Technology,250-999,2024-11-06
+17,"Simulated Account 017",EMEA,SMB,Manufacturing,50-249,2024-12-17
+18,"Simulated Account 018",NA,SMB,Healthcare,50-249,2023-01-28
+19,"Simulated Account 019",APAC,Mid-market,"Financial Services",250-999,2023-03-10
+20,"Simulated Account 020",EMEA,Enterprise,"Professional Services",1000+,2023-04-20
+21,"Simulated Account 021",NA,SMB,Technology,50-249,2023-05-31
+22,"Simulated Account 022",APAC,Mid-market,Manufacturing,250-999,2023-07-11
+23,"Simulated Account 023",EMEA,Mid-market,Healthcare,250-999,2023-08-21
+24,"Simulated Account 024",NA,SMB,"Financial Services",50-249,2023-10-01
+25,"Simulated Account 025",EMEA,SMB,"Professional Services",50-249,2023-11-11
+26,"Simulated Account 026",NA,Mid-market,Technology,250-999,2023-12-22
+27,"Simulated Account 027",APAC,Enterprise,Manufacturing,1000+,2024-02-01
+28,"Simulated Account 028",EMEA,SMB,Healthcare,50-249,2024-03-13
+29,"Simulated Account 029",NA,Mid-market,"Financial Services",250-999,2024-04-23
+30,"Simulated Account 030",APAC,Mid-market,"Professional Services",250-999,2024-06-03
+31,"Simulated Account 031",EMEA,SMB,Technology,50-249,2024-07-14
+32,"Simulated Account 032",NA,SMB,Manufacturing,50-249,2024-08-24
+33,"Simulated Account 033",APAC,Mid-market,Healthcare,250-999,2024-10-04
+34,"Simulated Account 034",NA,Enterprise,"Financial Services",1000+,2024-11-14
+35,"Simulated Account 035",LATAM,SMB,"Professional Services",50-249,2024-12-25
+36,"Simulated Account 036",EMEA,Mid-market,Technology,250-999,2023-02-05
+37,"Simulated Account 037",NA,Enterprise,Manufacturing,1000+,2023-03-18
+38,"Simulated Account 038",APAC,SMB,Healthcare,50-249,2023-04-28
+39,"Simulated Account 039",EMEA,SMB,"Financial Services",50-249,2023-06-08
+40,"Simulated Account 040",NA,Mid-market,"Professional Services",250-999,2023-07-19
+41,"Simulated Account 041",APAC,Enterprise,Technology,1000+,2023-08-29
+42,"Simulated Account 042",NA,SMB,Manufacturing,50-249,2023-10-09
+43,"Simulated Account 043",LATAM,Mid-market,Healthcare,250-999,2023-11-19
+44,"Simulated Account 044",EMEA,Enterprise,"Financial Services",1000+,2023-12-30
+45,"Simulated Account 045",NA,SMB,"Professional Services",50-249,2024-02-09
+46,"Simulated Account 046",APAC,Mid-market,Technology,250-999,2024-03-21
+47,"Simulated Account 047",EMEA,Mid-market,Manufacturing,250-999,2024-05-01
+48,"Simulated Account 048",NA,Enterprise,Healthcare,1000+,2024-06-11
+49,"Simulated Account 049",APAC,SMB,"Financial Services",50-249,2024-07-22
+50,"Simulated Account 050",EMEA,Mid-market,"Professional Services",250-999,2024-09-01
+51,"Simulated Account 051",NA,Enterprise,Technology,1000+,2024-10-12
+52,"Simulated Account 052",EMEA,SMB,Manufacturing,50-249,2024-11-22
+53,"Simulated Account 053",NA,Mid-market,Healthcare,250-999,2023-01-03
+54,"Simulated Account 054",LATAM,Mid-market,"Financial Services",250-999,2023-02-13
+55,"Simulated Account 055",EMEA,SMB,"Professional Services",50-249,2023-03-26
+56,"Simulated Account 056",NA,SMB,Technology,50-249,2023-05-06
+57,"Simulated Account 057",APAC,Mid-market,Manufacturing,250-999,2023-06-16
+58,"Simulated Account 058",EMEA,Enterprise,Healthcare,1000+,2023-07-27
+59,"Simulated Account 059",NA,SMB,"Financial Services",50-249,2023-09-06
+60,"Simulated Account 060",APAC,Mid-market,"Professional Services",250-999,2023-10-17
+61,"Simulated Account 061",NA,Mid-market,Technology,250-999,2023-11-27
+62,"Simulated Account 062",LATAM,SMB,Manufacturing,50-249,2024-01-07
+63,"Simulated Account 063",EMEA,SMB,Healthcare,50-249,2024-02-17
+64,"Simulated Account 064",NA,Mid-market,"Financial Services",250-999,2024-03-29
+65,"Simulated Account 065",APAC,Enterprise,"Professional Services",1000+,2024-05-09
+66,"Simulated Account 066",EMEA,SMB,Technology,50-249,2024-06-19
+67,"Simulated Account 067",NA,Mid-market,Manufacturing,250-999,2024-07-30
+68,"Simulated Account 068",APAC,Mid-market,Healthcare,250-999,2024-09-09
+69,"Simulated Account 069",EMEA,SMB,"Financial Services",50-249,2024-10-20
+70,"Simulated Account 070",LATAM,SMB,"Professional Services",50-249,2024-11-30
+71,"Simulated Account 071",EMEA,Mid-market,Technology,250-999,2023-01-11
+72,"Simulated Account 072",NA,Enterprise,Manufacturing,1000+,2023-02-21
+73,"Simulated Account 073",APAC,SMB,Healthcare,50-249,2023-04-03
+74,"Simulated Account 074",EMEA,Mid-market,"Financial Services",250-999,2023-05-14
+75,"Simulated Account 075",NA,Enterprise,"Professional Services",1000+,2023-06-24
+76,"Simulated Account 076",APAC,SMB,Technology,50-249,2023-08-04
+77,"Simulated Account 077",EMEA,Mid-market,Manufacturing,250-999,2023-09-14
+78,"Simulated Account 078",NA,Mid-market,Healthcare,250-999,2023-10-25
+79,"Simulated Account 079",APAC,Enterprise,"Financial Services",1000+,2023-12-05
+80,"Simulated Account 080",NA,SMB,"Professional Services",50-249,2024-01-15
+81,"Simulated Account 081",LATAM,Mid-market,Technology,250-999,2024-02-25
+82,"Simulated Account 082",EMEA,Enterprise,Manufacturing,1000+,2024-04-06
+83,"Simulated Account 083",NA,SMB,Healthcare,50-249,2024-05-17
+84,"Simulated Account 084",APAC,Mid-market,"Financial Services",250-999,2024-06-27
+85,"Simulated Account 085",EMEA,Mid-market,"Professional Services",250-999,2024-08-07
+86,"Simulated Account 086",NA,SMB,Technology,50-249,2024-09-17
+87,"Simulated Account 087",APAC,SMB,Manufacturing,50-249,2024-10-28
+88,"Simulated Account 088",NA,Mid-market,Healthcare,250-999,2024-12-08
+89,"Simulated Account 089",LATAM,Enterprise,"Financial Services",1000+,2023-01-19
+90,"Simulated Account 090",EMEA,SMB,"Professional Services",50-249,2023-03-01
+91,"Simulated Account 091",NA,Mid-market,Technology,250-999,2023-04-11
+92,"Simulated Account 092",APAC,Mid-market,Manufacturing,250-999,2023-05-22
+93,"Simulated Account 093",EMEA,SMB,Healthcare,50-249,2023-07-02
+94,"Simulated Account 094",NA,SMB,"Financial Services",50-249,2023-08-12
+95,"Simulated Account 095",APAC,Mid-market,"Professional Services",250-999,2023-09-22
+96,"Simulated Account 096",EMEA,Enterprise,Technology,1000+,2023-11-02
+97,"Simulated Account 097",LATAM,SMB,Manufacturing,50-249,2023-12-13
+98,"Simulated Account 098",EMEA,Mid-market,Healthcare,250-999,2024-01-23
+99,"Simulated Account 099",NA,Mid-market,"Financial Services",250-999,2024-03-04
+100,"Simulated Account 100",APAC,SMB,"Professional Services",50-249,2024-04-14
+101,"Simulated Account 101",EMEA,SMB,Technology,50-249,2024-05-25
+102,"Simulated Account 102",NA,Mid-market,Manufacturing,250-999,2024-07-05
+103,"Simulated Account 103",APAC,Enterprise,Healthcare,1000+,2024-08-15
+104,"Simulated Account 104",EMEA,SMB,"Financial Services",50-249,2024-09-25
+105,"Simulated Account 105",NA,Mid-market,"Professional Services",250-999,2024-11-05
+106,"Simulated Account 106",APAC,Enterprise,Technology,1000+,2024-12-16
+107,"Simulated Account 107",NA,SMB,Manufacturing,50-249,2023-01-27
+108,"Simulated Account 108",LATAM,SMB,Healthcare,50-249,2023-03-09
+109,"Simulated Account 109",EMEA,Mid-market,"Financial Services",250-999,2023-04-19
+110,"Simulated Account 110",NA,Enterprise,"Professional Services",1000+,2023-05-30
+111,"Simulated Account 111",APAC,SMB,Technology,50-249,2023-07-10
+112,"Simulated Account 112",EMEA,Mid-market,Manufacturing,250-999,2023-08-20
+113,"Simulated Account 113",NA,Enterprise,Healthcare,1000+,2023-09-30
+114,"Simulated Account 114",APAC,SMB,"Financial Services",50-249,2023-11-10
+115,"Simulated Account 115",NA,Mid-market,"Professional Services",250-999,2023-12-21
+116,"Simulated Account 116",LATAM,Mid-market,Technology,250-999,2024-01-31
+117,"Simulated Account 117",EMEA,SMB,Manufacturing,50-249,2024-03-12
+118,"Simulated Account 118",NA,SMB,Healthcare,50-249,2024-04-22
+119,"Simulated Account 119",APAC,Mid-market,"Financial Services",250-999,2024-06-02
+120,"Simulated Account 120",EMEA,Enterprise,"Professional Services",1000+,2024-07-13
+121,"Simulated Account 121",NA,SMB,Technology,50-249,2024-08-23
+122,"Simulated Account 122",APAC,Mid-market,Manufacturing,250-999,2024-10-03
+123,"Simulated Account 123",EMEA,Mid-market,Healthcare,250-999,2024-11-13
+124,"Simulated Account 124",NA,SMB,"Financial Services",50-249,2024-12-24
+125,"Simulated Account 125",EMEA,SMB,"Professional Services",50-249,2023-02-04
+126,"Simulated Account 126",NA,Mid-market,Technology,250-999,2023-03-17
+127,"Simulated Account 127",APAC,Enterprise,Manufacturing,1000+,2023-04-27
+128,"Simulated Account 128",EMEA,SMB,Healthcare,50-249,2023-06-07
+129,"Simulated Account 129",NA,Mid-market,"Financial Services",250-999,2023-07-18
+130,"Simulated Account 130",APAC,Mid-market,"Professional Services",250-999,2023-08-28
+131,"Simulated Account 131",EMEA,SMB,Technology,50-249,2023-10-08
+132,"Simulated Account 132",NA,SMB,Manufacturing,50-249,2023-11-18
+133,"Simulated Account 133",APAC,Mid-market,Healthcare,250-999,2023-12-29
+134,"Simulated Account 134",NA,Enterprise,"Financial Services",1000+,2024-02-08
+135,"Simulated Account 135",LATAM,SMB,"Professional Services",50-249,2024-03-20
+136,"Simulated Account 136",EMEA,Mid-market,Technology,250-999,2024-04-30
+137,"Simulated Account 137",NA,Enterprise,Manufacturing,1000+,2024-06-10
+138,"Simulated Account 138",APAC,SMB,Healthcare,50-249,2024-07-21
+139,"Simulated Account 139",EMEA,SMB,"Financial Services",50-249,2024-08-31
+140,"Simulated Account 140",NA,Mid-market,"Professional Services",250-999,2024-10-11
+141,"Simulated Account 141",APAC,Enterprise,Technology,1000+,2024-11-21
+142,"Simulated Account 142",NA,SMB,Manufacturing,50-249,2023-01-02
+143,"Simulated Account 143",LATAM,Mid-market,Healthcare,250-999,2023-02-12
+144,"Simulated Account 144",EMEA,Enterprise,"Financial Services",1000+,2023-03-25
+145,"Simulated Account 145",NA,SMB,"Professional Services",50-249,2023-05-05
+146,"Simulated Account 146",APAC,Mid-market,Technology,250-999,2023-06-15
+147,"Simulated Account 147",EMEA,Mid-market,Manufacturing,250-999,2023-07-26
+148,"Simulated Account 148",NA,Enterprise,Healthcare,1000+,2023-09-05
+149,"Simulated Account 149",APAC,SMB,"Financial Services",50-249,2023-10-16
+150,"Simulated Account 150",EMEA,Mid-market,"Professional Services",250-999,2023-11-26
+151,"Simulated Account 151",NA,Enterprise,Technology,1000+,2024-01-06
+152,"Simulated Account 152",EMEA,SMB,Manufacturing,50-249,2024-02-16
+153,"Simulated Account 153",NA,Mid-market,Healthcare,250-999,2024-03-28
+154,"Simulated Account 154",LATAM,Mid-market,"Financial Services",250-999,2024-05-08
+155,"Simulated Account 155",EMEA,SMB,"Professional Services",50-249,2024-06-18
+156,"Simulated Account 156",NA,SMB,Technology,50-249,2024-07-29
+157,"Simulated Account 157",APAC,Mid-market,Manufacturing,250-999,2024-09-08
+158,"Simulated Account 158",EMEA,Enterprise,Healthcare,1000+,2024-10-19
+159,"Simulated Account 159",NA,SMB,"Financial Services",50-249,2024-11-29
+160,"Simulated Account 160",APAC,Mid-market,"Professional Services",250-999,2023-01-10
+161,"Simulated Account 161",NA,Mid-market,Technology,250-999,2023-02-20
+162,"Simulated Account 162",LATAM,SMB,Manufacturing,50-249,2023-04-02
+163,"Simulated Account 163",EMEA,SMB,Healthcare,50-249,2023-05-13
+164,"Simulated Account 164",NA,Mid-market,"Financial Services",250-999,2023-06-23
+165,"Simulated Account 165",APAC,Enterprise,"Professional Services",1000+,2023-08-03
+166,"Simulated Account 166",EMEA,SMB,Technology,50-249,2023-09-13
+167,"Simulated Account 167",NA,Mid-market,Manufacturing,250-999,2023-10-24
+168,"Simulated Account 168",APAC,Mid-market,Healthcare,250-999,2023-12-04
+169,"Simulated Account 169",EMEA,SMB,"Financial Services",50-249,2024-01-14
+170,"Simulated Account 170",LATAM,SMB,"Professional Services",50-249,2024-02-24
+171,"Simulated Account 171",EMEA,Mid-market,Technology,250-999,2024-04-05
+172,"Simulated Account 172",NA,Enterprise,Manufacturing,1000+,2024-05-16
+173,"Simulated Account 173",APAC,SMB,Healthcare,50-249,2024-06-26
+174,"Simulated Account 174",EMEA,Mid-market,"Financial Services",250-999,2024-08-06
+175,"Simulated Account 175",NA,Enterprise,"Professional Services",1000+,2024-09-16
+176,"Simulated Account 176",APAC,SMB,Technology,50-249,2024-10-27
+177,"Simulated Account 177",EMEA,Mid-market,Manufacturing,250-999,2024-12-07
+178,"Simulated Account 178",NA,Mid-market,Healthcare,250-999,2023-01-18
+179,"Simulated Account 179",APAC,Enterprise,"Financial Services",1000+,2023-02-28
+180,"Simulated Account 180",NA,SMB,"Professional Services",50-249,2023-04-10
+181,"Simulated Account 181",LATAM,Mid-market,Technology,250-999,2023-05-21
+182,"Simulated Account 182",EMEA,Enterprise,Manufacturing,1000+,2023-07-01
+183,"Simulated Account 183",NA,SMB,Healthcare,50-249,2023-08-11
+184,"Simulated Account 184",APAC,Mid-market,"Financial Services",250-999,2023-09-21
+185,"Simulated Account 185",EMEA,Mid-market,"Professional Services",250-999,2023-11-01
+186,"Simulated Account 186",NA,SMB,Technology,50-249,2023-12-12
+187,"Simulated Account 187",APAC,SMB,Manufacturing,50-249,2024-01-22
+188,"Simulated Account 188",NA,Mid-market,Healthcare,250-999,2024-03-03
+189,"Simulated Account 189",LATAM,Enterprise,"Financial Services",1000+,2024-04-13
+190,"Simulated Account 190",EMEA,SMB,"Professional Services",50-249,2024-05-24
+191,"Simulated Account 191",NA,Mid-market,Technology,250-999,2024-07-04
+192,"Simulated Account 192",APAC,Mid-market,Manufacturing,250-999,2024-08-14
+193,"Simulated Account 193",EMEA,SMB,Healthcare,50-249,2024-09-24
+194,"Simulated Account 194",NA,SMB,"Financial Services",50-249,2024-11-04
+195,"Simulated Account 195",APAC,Mid-market,"Professional Services",250-999,2024-12-15
+196,"Simulated Account 196",EMEA,Enterprise,Technology,1000+,2023-01-26
+197,"Simulated Account 197",LATAM,SMB,Manufacturing,50-249,2023-03-08
+198,"Simulated Account 198",EMEA,Mid-market,Healthcare,250-999,2023-04-18
+199,"Simulated Account 199",NA,Mid-market,"Financial Services",250-999,2023-05-29
+200,"Simulated Account 200",APAC,SMB,"Professional Services",50-249,2023-07-09
+201,"Simulated Account 201",EMEA,SMB,Technology,50-249,2023-08-19
+202,"Simulated Account 202",NA,Mid-market,Manufacturing,250-999,2023-09-29
+203,"Simulated Account 203",APAC,Enterprise,Healthcare,1000+,2023-11-09
+204,"Simulated Account 204",EMEA,SMB,"Financial Services",50-249,2023-12-20
+205,"Simulated Account 205",NA,Mid-market,"Professional Services",250-999,2024-01-30
+206,"Simulated Account 206",APAC,Enterprise,Technology,1000+,2024-03-11
+207,"Simulated Account 207",NA,SMB,Manufacturing,50-249,2024-04-21
+208,"Simulated Account 208",LATAM,SMB,Healthcare,50-249,2024-06-01
+209,"Simulated Account 209",EMEA,Mid-market,"Financial Services",250-999,2024-07-12
+210,"Simulated Account 210",NA,Enterprise,"Professional Services",1000+,2024-08-22
+211,"Simulated Account 211",APAC,SMB,Technology,50-249,2024-10-02
+212,"Simulated Account 212",EMEA,Mid-market,Manufacturing,250-999,2024-11-12
+213,"Simulated Account 213",NA,Enterprise,Healthcare,1000+,2024-12-23
+214,"Simulated Account 214",APAC,SMB,"Financial Services",50-249,2023-02-03
+215,"Simulated Account 215",NA,Mid-market,"Professional Services",250-999,2023-03-16
+216,"Simulated Account 216",LATAM,Mid-market,Technology,250-999,2023-04-26
+217,"Simulated Account 217",EMEA,SMB,Manufacturing,50-249,2023-06-06
+218,"Simulated Account 218",NA,SMB,Healthcare,50-249,2023-07-17
+219,"Simulated Account 219",APAC,Mid-market,"Financial Services",250-999,2023-08-27
+220,"Simulated Account 220",EMEA,Enterprise,"Professional Services",1000+,2023-10-07
+221,"Simulated Account 221",NA,SMB,Technology,50-249,2023-11-17
+222,"Simulated Account 222",APAC,Mid-market,Manufacturing,250-999,2023-12-28
+223,"Simulated Account 223",EMEA,Mid-market,Healthcare,250-999,2024-02-07
+224,"Simulated Account 224",NA,SMB,"Financial Services",50-249,2024-03-19
+225,"Simulated Account 225",EMEA,SMB,"Professional Services",50-249,2024-04-29
+226,"Simulated Account 226",NA,Mid-market,Technology,250-999,2024-06-09
+227,"Simulated Account 227",APAC,Enterprise,Manufacturing,1000+,2024-07-20
+228,"Simulated Account 228",EMEA,SMB,Healthcare,50-249,2024-08-30
+229,"Simulated Account 229",NA,Mid-market,"Financial Services",250-999,2024-10-10
+230,"Simulated Account 230",APAC,Mid-market,"Professional Services",250-999,2024-11-20
+231,"Simulated Account 231",EMEA,SMB,Technology,50-249,2023-01-01
+232,"Simulated Account 232",NA,SMB,Manufacturing,50-249,2023-02-11
+233,"Simulated Account 233",APAC,Mid-market,Healthcare,250-999,2023-03-24
+234,"Simulated Account 234",NA,Enterprise,"Financial Services",1000+,2023-05-04
+235,"Simulated Account 235",LATAM,SMB,"Professional Services",50-249,2023-06-14
+236,"Simulated Account 236",EMEA,Mid-market,Technology,250-999,2023-07-25
+237,"Simulated Account 237",NA,Enterprise,Manufacturing,1000+,2023-09-04
+238,"Simulated Account 238",APAC,SMB,Healthcare,50-249,2023-10-15
+239,"Simulated Account 239",EMEA,SMB,"Financial Services",50-249,2023-11-25
+240,"Simulated Account 240",NA,Mid-market,"Professional Services",250-999,2024-01-05

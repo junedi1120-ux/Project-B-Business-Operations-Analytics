@@ -1,0 +1,16 @@
+segment_type,segment_value,opportunity_count,proposal_count,won_count,closed_opportunity_count,closed_win_rate_pct,average_deal_value_usd,average_closed_sales_cycle_days
+"Company size",Enterprise,199,112,40,104,38.5,93569.46,61.9
+"Company size",Mid-market,397,224,106,198,53.5,56146.2,60.3
+"Company size",SMB,404,238,109,218,50.0,58160.75,61.3
+"Deal size",Large,194,106,34,97,35.1,155820.72,62.3
+"Deal size",Medium,479,283,128,253,50.6,57100.63,60.5
+"Deal size",Small,327,185,93,170,54.7,20877.32,61.1
+Industry,"Financial Services",200,120,62,112,55.4,60648.37,59.5
+Industry,Healthcare,200,105,44,94,46.8,63985.34,61.6
+Industry,Manufacturing,200,106,46,94,48.9,66966.68,61.2
+Industry,"Professional Services",200,122,52,110,47.3,64722.5,62.0
+Industry,Technology,200,121,51,110,46.4,65713.64,60.9
+Region,APAC,249,140,48,123,39.0,68313.45,61.5
+Region,EMEA,300,162,80,150,53.3,63547.18,60.8
+Region,LATAM,97,57,25,53,47.2,53433.73,59.5
+Region,NA,354,215,102,194,52.6,65395.57,61.3

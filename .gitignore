@@ -1,0 +1,25 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and temporary files
+.idea/
+.vscode/
+*.tmp
+*.temp
+*.bak
+*.log
+*~
+~$*
+
+# Power BI temporary, cache, lock, and recovery files
+powerbi/.pbi/
+powerbi/.powerbi/
+powerbi/*.pbix.lock
+powerbi/*.pbix.autosave
+powerbi/*-backup.pbix
+
+# Raw data stays local; keep the directory placeholder
+data/raw/*
+!data/raw/.gitkeep

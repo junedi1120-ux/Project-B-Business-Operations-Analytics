@@ -1,0 +1,4 @@
+company_size,activated_onboarding_count,average_onboarding_cycle_days,attained_count,breached_count,sla_attainment_rate_pct,sla_breach_rate_pct
+Enterprise,38,28.6,38,0,100.0,0.0
+Mid-market,99,33.0,37,62,37.4,62.6
+SMB,101,20.8,81,20,80.2,19.8

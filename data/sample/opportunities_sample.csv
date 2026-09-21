@@ -1,0 +1,26 @@
+opportunity_id,account_id,lead_date,qualified_date,proposal_date,closed_date,current_stage,outcome,deal_size_band,deal_value_usd,lead_source,owner_team,lost_reason
+1,47,2025-06-12,2025-06-18,2025-07-16,2025-08-21,Lost,Lost,Medium,37526.0,Event,"EMEA Sales",Budget
+2,64,2026-02-19,2026-02-23,2026-03-23,2026-04-28,Won,Won,Small,14406.0,Outbound,"NA Sales",
+3,81,2025-07-06,2025-07-16,2025-08-05,2025-08-28,Won,Won,Small,15144.0,Outbound,"LATAM Sales",
+4,98,2026-03-15,2026-03-23,,,Qualified,Open,Medium,40874.0,Partner,"EMEA Sales",
+5,115,2025-07-30,2025-08-04,2025-09-07,,Proposal,Open,Medium,41990.0,Partner,"NA Sales",
+6,132,2026-04-08,2026-04-13,2026-05-03,2026-05-26,Lost,Lost,Medium,43106.0,Outbound,"NA Sales",Competitor
+7,149,2025-08-23,,,,Lead,Open,Small,18096.0,Inbound,"APAC Sales",
+8,166,2025-01-07,2025-01-09,2025-02-08,2025-03-07,Won,Won,Small,18834.0,Partner,"EMEA Sales",
+9,183,2025-09-16,2025-10-01,2025-10-07,2025-12-04,Lost,Lost,Medium,46454.0,Inbound,"NA Sales",Budget
+10,200,2025-01-31,2025-02-06,2025-02-20,2025-03-28,Won,Won,Small,20310.0,Outbound,"APAC Sales",
+11,217,2025-10-10,2025-10-15,2025-10-29,2025-12-04,Lost,Lost,Medium,48686.0,Partner,"EMEA Sales",Budget
+12,234,2025-02-24,2025-03-11,,,Qualified,Open,Large,112866.0,Partner,"NA Sales",
+13,11,2025-03-08,2025-03-11,,,Qualified,Open,Small,15084.0,Outbound,"APAC Sales",
+14,28,2025-11-15,2025-11-25,2025-12-23,2026-01-28,Lost,Lost,Medium,40754.0,Inbound,"EMEA Sales",Competitor
+15,45,2025-04-01,2025-04-15,2025-04-29,2025-06-04,Won,Won,Small,16560.0,Event,"NA Sales",
+16,62,2025-12-09,2025-12-18,,,Qualified,Open,Large,102738.0,Outbound,"LATAM Sales",
+17,79,2025-04-25,,,,Lead,Open,Large,104466.0,Partner,"APAC Sales",
+18,96,2026-01-02,2026-01-15,,,Qualified,Open,Small,18774.0,Event,"EMEA Sales",
+19,113,2025-05-19,2025-05-24,2025-06-15,2025-08-03,Lost,Lost,Medium,46334.0,Event,"NA Sales",Budget
+20,130,2026-01-26,,,,Lead,Open,Small,20250.0,Event,"APAC Sales",
+21,147,2025-06-12,,,,Lead,Open,Large,111378.0,Partner,"EMEA Sales",
+22,164,2026-02-19,,,,Lead,Open,Small,21726.0,Inbound,"NA Sales",
+23,181,2025-07-06,2025-07-21,2025-07-27,2025-09-23,Won,Won,Small,22464.0,Event,"LATAM Sales",
+24,198,2026-03-15,,,,Lead,Open,Medium,51914.0,Inbound,"EMEA Sales",
+25,215,2025-07-30,,,,Lead,Open,Medium,53030.0,Outbound,"NA Sales",

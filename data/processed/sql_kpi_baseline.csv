@@ -1,0 +1,2 @@
+lead_count,qualified_count,proposal_count,won_count,lost_count,lead_to_qualified_conversion_pct,qualified_to_proposal_conversion_pct,proposal_to_won_snapshot_conversion_pct,closed_opportunity_win_rate_pct,average_deal_value_usd,average_closed_sales_cycle_days,average_onboarding_cycle_days,sla_attainment_rate_pct,sla_breach_rate_pct
+1000,780,574,255,265,78.0,73.6,44.4,49.0,64407.31,61.0,27.1,65.5,34.5

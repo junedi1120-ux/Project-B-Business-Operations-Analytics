@@ -1,0 +1,26 @@
+activity_id,opportunity_id,activity_date,activity_type,channel,activity_status
+11,1,2025-06-19,Demo,Email,Completed
+12,1,2025-06-25,Email,Phone,Completed
+13,1,2025-07-01,Meeting,Video,Completed
+14,1,2025-07-07,"Proposal Follow-up",In-person,Completed
+21,2,2026-03-01,"Proposal Follow-up",In-person,Completed
+22,2,2026-03-03,Call,Email,Completed
+23,2,2026-03-09,Demo,Phone,Completed
+24,2,2026-03-15,Email,Video,Completed
+31,3,2025-07-15,Email,Video,"No Response"
+32,3,2025-07-21,Meeting,In-person,Completed
+33,3,2025-07-23,"Proposal Follow-up",Email,Completed
+41,4,2026-03-23,Call,Phone,Completed
+42,4,2026-03-29,Demo,Video,Completed
+43,4,2026-04-04,Email,In-person,Completed
+44,4,2026-04-06,Meeting,Email,Completed
+51,5,2025-08-06,Meeting,Email,Completed
+52,5,2025-08-12,"Proposal Follow-up",Phone,Completed
+53,5,2025-08-18,Call,Video,Completed
+54,5,2025-08-24,Demo,In-person,Completed
+61,6,2026-04-18,Demo,In-person,Completed
+62,6,2026-04-20,Email,Email,"No Response"
+63,6,2026-04-26,Meeting,Phone,Completed
+71,7,2025-09-01,"Proposal Follow-up",Video,"No Response"
+72,7,2025-09-07,Call,In-person,Completed
+73,7,2025-09-09,Demo,Email,Completed
