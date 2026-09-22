@@ -1,14 +1,12 @@
-# Power BI File Status
+# Power BI Report
 
-## Current deliverable
+Open `Project-B-Business-Operations-Analytics-v2.pbix`.
 
-Open: `Project-B-Business-Operations-Analytics-v2.pbix`
+The report contains two interactive pages:
 
-This is the current two-page report and includes the final Page 2 Region, Company Size, and Deal Size slicers. Phase 4 screenshot capture confirmed the v2 filename and saved-state indicator.
+1. **Executive Commercial Health**
+2. **Funnel & Process Diagnostics**
 
-## Earlier file
-
-An earlier `Project-B-Business-Operations-Analytics.pbix` was superseded by v2. It is no longer published in this repository and is not the portfolio deliverable.
+Available slicers include Region, Company Size, and Deal Size where relevant.
 
 For data-source refresh instructions, see `../RUNBOOK.md`.
-
