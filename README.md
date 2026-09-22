@@ -55,7 +55,7 @@ Definitions and denominator rules are documented in the [KPI contract](docs/kpi_
 
 Completed SLA attainment is 65.5%, but its denominator excludes unfinished cases. All 17 open onboardings were already overdue at the snapshot. Mid-market has 37.4% completed SLA attainment across 99 activated cases and a 33.0-day average cycle.
 
-**Recommendation:** manage completed performance and open backlog separately. Triage all 17 overdue cases and use the simulated 30-day Mid-market SLA as the next comparable cohort's cycle-time threshold.
+**Recommendation:** manage completed performance and open backlog separately. Triage all 17 overdue cases and treat the simulated 30-day Mid-market SLA as an individual-case threshold, not as an average-cycle target derived from this dataset.
 
 ### 2. Logged activity volume does not show a consistent relationship with win rate
 
