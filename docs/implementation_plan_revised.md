@@ -42,7 +42,7 @@
 
 AI 可起草程式、解釋錯誤、產生測試與文件草稿。本人必須能從白話題目寫基本 SQL，說明 JOIN 如何避免重複、KPI 分母與排除範圍，修改 AI 查詢並檢查結果；亦須實際操作 Power BI 建模與 measures。教學可在 Chat 進行，回報題目、本人答案、驗證結果；不以「Chat 說通過」直接驗收。
 
-目前已有資料與 SQL 草稿；**Phase 1 已於 2026-09-20 依約定完成線通過個人驗收，Power BI 尚未完成**。下一階段先確認 Parallels／Windows／Power BI Desktop 實作環境，不重複從頭生成資料，也不把 SQL 通過誇大為進階 SQL 獨立熟練。
+目前 **Phase 0–4 已完成**：Phase 1 於 2026-09-20 通過個人 SQL 驗收；Phase 2 Power BI、Phase 3 findings／recommendations、Phase 4 作品包裝均已完成並留下驗收紀錄。Phase 5 練習材料已準備，但必須完成本人英文／日文口說、追問與一次 live filter 才能驗收；不把文件完成當成個人通過，也不把本案誇大為進階 SQL 獨立熟練或真實企業成效。
 
 ## 主要超時風險與停止條件
 

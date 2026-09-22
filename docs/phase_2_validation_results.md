@@ -2,7 +2,9 @@
 
 Recorded 2026-09-21. Acceptance criteria are those in `implementation_plan_revised.md` (2026-09-19 revision).
 
-Authoring environment: Power BI Desktop on Windows 11 in Parallels Desktop on macOS (`mac-mini-local`). Working file: `powerbi/Project-B-Business-Operations-Analytics.pbix`.
+Authoring environment: Power BI Desktop on Windows 11 in Parallels Desktop on macOS (`mac-mini-local`).
+
+Post-validation file update, 2026-09-22: the original PBIX was locked by another Power BI Desktop process, so Andy used Save As after adding the approved Page 2 Company Size and Deal Size slicers. The current working file is `powerbi/Project-B-Business-Operations-Analytics-v2.pbix`; it supersedes the original working-file reference below. The title bar and saved state were rechecked during Phase 4 screenshot capture.
 
 ## Acceptance criteria
 
@@ -44,7 +46,7 @@ The Enterprise 100% figure is a structural consequence of the simulated onboardi
 
 ## Resolved item
 
-A stale duplicate `Project-B-Business-Operations-Analytics.pbix` existed outside the repository at `~/Documents/` (`C:\Mac\Home\Documents\` from inside the VM). It was an early file containing a data model but a single empty report page and no `Calendar` table, and it appeared in the Power BI recent-files list beside the real one, where it was opened by mistake once. It was deleted on 2026-09-21 after confirming its contents. The repository copy under `powerbi/` is the only working file.
+A stale duplicate `Project-B-Business-Operations-Analytics.pbix` existed outside the repository at `~/Documents/` (`C:\Mac\Home\Documents\` from inside the VM). It was an early file containing a data model but a single empty report page and no `Calendar` table, and it appeared in the Power BI recent-files list beside the real one, where it was opened by mistake once. It was deleted on 2026-09-21 after confirming its contents. At that time, the repository copy under `powerbi/` was the working file; the 2026-09-22 Save As update above subsequently made `Project-B-Business-Operations-Analytics-v2.pbix` the current deliverable.
 
 ## Corrections made during Phase 2
 

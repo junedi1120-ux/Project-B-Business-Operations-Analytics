@@ -13,6 +13,9 @@ Desktop.ini
 *~
 ~$*
 
+# Local rebuild and render workspace
+tmp/
+
 # Power BI temporary, cache, lock, and recovery files
 powerbi/.pbi/
 powerbi/.powerbi/
@@ -23,3 +26,8 @@ powerbi/*-backup.pbix
 # Raw data stays local; keep the directory placeholder
 data/raw/*
 !data/raw/.gitkeep
+
+# Internal drafts and personal interview material (not published)
+portfolio/NOTION_CASE_PAGE_DRAFT.md
+docs/phase_5_interview_guide.md
+docs/phase_5_practice_record.md
