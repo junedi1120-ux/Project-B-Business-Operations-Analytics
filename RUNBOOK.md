@@ -2,7 +2,7 @@
 
 Run all commands from the repository root. Required command-line dependency: SQLite 3.
 
-## Review the frozen v2 analysis
+## Review the packaged analysis
 
 These commands are read-only and do not change the packaged data:
 
@@ -11,7 +11,7 @@ sqlite3 -readonly data/processed/project_b_simulated.sqlite < sql/00_validate_si
 sqlite3 -readonly data/processed/project_b_simulated.sqlite < sql/01_validate_sql_analysis.sql
 sqlite3 -readonly data/processed/project_b_simulated.sqlite < sql/02_end_to_end_analysis.sql
 sqlite3 -readonly data/processed/project_b_simulated.sqlite < sql/03_quality_review.sql
-sqlite3 -readonly data/processed/project_b_simulated.sqlite < sql/04_phase3_comparisons.sql
+sqlite3 -readonly data/processed/project_b_simulated.sqlite < sql/04_findings_comparisons.sql
 ```
 
 Expected validation result: 15 structural checks PASS, 9 analysis checks PASS, quality-review violations equal zero, and SQLite integrity equals `ok`.
@@ -30,14 +30,14 @@ sqlite3 -readonly project_b_rebuild.sqlite < sql/00_validate_simulated_data.sql
 sqlite3 -readonly project_b_rebuild.sqlite < sql/01_validate_sql_analysis.sql
 sqlite3 -readonly project_b_rebuild.sqlite < sql/02_end_to_end_analysis.sql
 sqlite3 -readonly project_b_rebuild.sqlite < sql/03_quality_review.sql
-sqlite3 -readonly project_b_rebuild.sqlite < sql/04_phase3_comparisons.sql
+sqlite3 -readonly project_b_rebuild.sqlite < sql/04_findings_comparisons.sql
 ```
 
-The generator is deterministic. Rebuilt CSV checksums should match the frozen values recorded in `docs/phase_0_validation_results.md`.
+The generator is deterministic, so rebuilt outputs should match the packaged dataset when the same scripts are used.
 
 ## Refresh Power BI on another computer
 
-Open only `powerbi/Project-B-Business-Operations-Analytics-v2.pbix`.
+Open `powerbi/Project-B-Business-Operations-Analytics-v2.pbix`.
 
 The PBIX imports these local files:
 
@@ -54,5 +54,4 @@ If Power BI reports a missing source path:
 4. Apply changes and refresh.
 5. Reconcile the overall dashboard values with `data/processed/sql_kpi_baseline.csv` and company-size SLA values with `data/processed/sql_onboarding_performance.csv`.
 
-Power BI Desktop authoring was completed on Windows 11 through Parallels. The PBIX is the editable report; screenshots are review aids, not substitutes for interaction testing.
-
+The PBIX is the editable report; screenshots are review aids rather than substitutes for the interactive file.
