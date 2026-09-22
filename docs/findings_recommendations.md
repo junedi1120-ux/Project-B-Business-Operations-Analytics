@@ -6,9 +6,9 @@ All results in this document come from the frozen synthetic dataset in this repo
 
 Completed SLA attainment is 65.5%, but that metric excludes unfinished cases. At the 2026-08-31 snapshot, all 17 open onboardings were already overdue. Mid-market is the main completed-case concern, with 37.4% SLA attainment across 99 activated cases and a 33.0-day average cycle.
 
-**Recommended action:** manage completed performance and open backlog separately. Triage all 17 overdue cases within 10 business days and assign an owner, next action, and recovery date. For the next comparable Mid-market cohort, use a maximum 30-day average cycle because 30 days is the simulated Mid-market SLA.
+**Recommended action:** manage completed performance and open backlog separately. Triage all 17 overdue cases within 10 business days and assign an owner, next action, and recovery date. Treat the simulated 30-day Mid-market SLA as an individual-case threshold; do not infer a 30-day average-cycle target from it.
 
-**Scenario sizing:** at the same 99-case volume, moving from 33 to 30 average days would equal about 297 fewer case-days. This is a scenario calculation, not realised savings.
+**Illustrative scenario:** at the same 99-case volume, reducing the average from 33 to 30 days would equal about 297 fewer case-days. This is hypothetical sizing only; 30 days is not asserted as an empirically justified average-cycle target.
 
 ## 2. Logged activity volume does not show a consistent relationship with win rate
 
