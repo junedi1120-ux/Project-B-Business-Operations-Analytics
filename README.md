@@ -95,8 +95,9 @@ Detailed evidence and scenario calculations are in [Findings and Recommendations
 | [`portfolio/PROJECT_SUMMARY.md`](portfolio/PROJECT_SUMMARY.md) | Compact executive summary |
 | [`portfolio/screenshots/`](portfolio/screenshots/) | Power BI dashboard screenshots |
 | [`powerbi/`](powerbi/) | Current editable PBIX |
+| [`sql/01_query_examples.sql`](sql/01_query_examples.sql) | Representative SQL query examples |
 | [`sql/02_end_to_end_analysis.sql`](sql/02_end_to_end_analysis.sql) | End-to-end KPI analysis |
-| [`sql/04_phase3_comparisons.sql`](sql/04_phase3_comparisons.sql) | Final comparison queries |
+| [`sql/04_findings_comparisons.sql`](sql/04_findings_comparisons.sql) | Finding comparison queries |
 | [`data/sample/`](data/sample/) | Reviewable samples of the four source tables |
 | [`data/processed/`](data/processed/) | Processed simulated data and SQL baselines |
 | [`docs/kpi_contract.md`](docs/kpi_contract.md) | KPI definitions and denominator rules |
