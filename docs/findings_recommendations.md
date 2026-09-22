@@ -53,4 +53,4 @@ The observed spread is descriptive only. The simulated generation logic is not s
 
 ## Evidence
 
-The detailed comparison queries are in `sql/04_phase3_comparisons.sql`. Dashboard KPIs are reconciled against the SQL baselines in `data/processed/`.
+The detailed comparison queries are in `sql/04_findings_comparisons.sql`. Dashboard KPIs are reconciled against the SQL baselines in `data/processed/`.
